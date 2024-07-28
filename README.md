@@ -41,6 +41,6 @@ This project includes the implementation of various features and enhancements to
   - `string LastModifiedDateTime`
 
 ### 5. Logging and Error Handling
-- Integrated a logging mechanism to capture and log important events and errors.
+- Integrated a logging mechanism to capture and log important events and errors. We are logging logs in a file outside and not just console so that they are safe.
 - Implemented proper error handling throughout the solution to ensure robustness and maintainability.
 
