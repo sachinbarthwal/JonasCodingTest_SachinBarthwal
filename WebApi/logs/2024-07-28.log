@@ -1,0 +1,6 @@
+2024-07-28 05:35:04.7833|INFO|BusinessLayer.Logging.LoggerService|Creating new employee: E001 
+2024-07-28 05:35:04.8676|INFO|BusinessLayer.Logging.LoggerService|Saving employee: E001 
+2024-07-28 05:35:04.8795|INFO|BusinessLayer.Logging.LoggerService|Inserting new employee: E001 
+2024-07-28 05:35:38.5261|INFO|BusinessLayer.Logging.LoggerService|Retrieving all employees 
+2024-07-28 05:35:38.5261|INFO|BusinessLayer.Logging.LoggerService|Getting all employees 
+2024-07-28 05:35:38.5261|INFO|BusinessLayer.Logging.LoggerService|Fetching all employees from database 
